@@ -1,7 +1,7 @@
 {
  "bundle": "nordic-culinary-platform-ingredient-nutrition",
  "source": "USDA FoodData Central via TrueAPI portfolio dictionary",
- "fetchedAt": "2026-09-11T17:23:19.789Z",
+ "fetchedAt": "2026-09-11T20:06:54.469Z",
  "counts": {
   "catalog": 42,
   "resolved": 21
