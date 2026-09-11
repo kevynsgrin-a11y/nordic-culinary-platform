@@ -1,0 +1,563 @@
+{
+ "bundle": "nordic-culinary-platform-ingredient-nutrition",
+ "source": "USDA FoodData Central via TrueAPI portfolio dictionary",
+ "fetchedAt": "2026-09-11T13:00:32.748Z",
+ "counts": {
+  "catalog": 42,
+  "resolved": 29
+ },
+ "entries": {
+  "rye flour": {
+   "display": "Rye flour",
+   "resolved": true,
+   "fdcId": 1857447,
+   "name": "RYE FLOUR",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 10,
+    "fat_g": 3.33,
+    "carbs_g": 73.3,
+    "kcal": 300,
+    "sugar_g": 0,
+    "fiber_g": 16.7,
+    "calcium_mg": 0,
+    "iron_mg": 2.4,
+    "sodium_mg": 0
+   }
+  },
+  "wheat flour": {
+   "display": "Wheat flour",
+   "resolved": false,
+   "fdcId": null,
+   "name": null,
+   "dataType": null,
+   "per100g": {}
+  },
+  "oats": {
+   "display": "oats",
+   "resolved": true,
+   "fdcId": 2020713,
+   "name": "OATS",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 12.5,
+    "fat_g": 6.25,
+    "carbs_g": 67.5,
+    "kcal": 375,
+    "sugar_g": 2.5,
+    "fiber_g": 10,
+    "calcium_mg": 0,
+    "iron_mg": 4.5,
+    "sodium_mg": 0
+   }
+  },
+  "barley": {
+   "display": "Barley",
+   "resolved": true,
+   "fdcId": 2708361,
+   "name": "Barley",
+   "dataType": "Survey (FNDDS)",
+   "per100g": {
+    "protein_g": 2.2,
+    "fat_g": 2.74,
+    "carbs_g": 27.23,
+    "kcal": 139,
+    "sugar_g": 0.28,
+    "fiber_g": 3.7,
+    "calcium_mg": 11,
+    "iron_mg": 1.28,
+    "potassium_mg": 90,
+    "sodium_mg": 199
+   }
+  },
+  "butter": {
+   "display": "butter",
+   "resolved": true,
+   "fdcId": 2542726,
+   "name": "BUTTER",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 0,
+    "fat_g": 78.6,
+    "carbs_g": 0,
+    "kcal": 714,
+    "sodium_mg": 0
+   }
+  },
+  "cream": {
+   "display": "Cream",
+   "resolved": true,
+   "fdcId": 170857,
+   "name": "Cream, fluid, light (coffee cream or table cream)",
+   "dataType": "SR Legacy",
+   "per100g": {
+    "protein_g": 2.96,
+    "sodium_mg": 72,
+    "iron_mg": 0.05,
+    "fat_g": 19.1,
+    "sugar_g": 3.67,
+    "calcium_mg": 91,
+    "potassium_mg": 136,
+    "carbs_g": 3.66,
+    "kcal": 195,
+    "fiber_g": 0
+   }
+  },
+  "milk": {
+   "display": "milk",
+   "resolved": true,
+   "fdcId": 1909132,
+   "name": "MILK",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 3.39,
+    "fat_g": 2.12,
+    "carbs_g": 5.08,
+    "kcal": 55,
+    "sugar_g": 5.08,
+    "fiber_g": 0,
+    "calcium_mg": 127,
+    "iron_mg": 0,
+    "sodium_mg": 55
+   }
+  },
+  "sour cream": {
+   "display": "sour cream",
+   "resolved": true,
+   "fdcId": 2288876,
+   "name": "SOUR CREAM",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 3.33,
+    "fat_g": 16.7,
+    "carbs_g": 6.67,
+    "kcal": 200,
+    "sugar_g": 3.33,
+    "fiber_g": 0,
+    "calcium_mg": 133,
+    "iron_mg": 0,
+    "potassium_mg": 167,
+    "sodium_mg": 50
+   }
+  },
+  "salmon": {
+   "display": "Salmon",
+   "resolved": true,
+   "fdcId": 2016166,
+   "name": "SALMON",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 15.2,
+    "fat_g": 7.95,
+    "carbs_g": 2.65,
+    "kcal": 139,
+    "sugar_g": 0,
+    "fiber_g": 0.7,
+    "calcium_mg": 13,
+    "iron_mg": 0.48,
+    "sodium_mg": 331
+   }
+  },
+  "herring": {
+   "display": "herring",
+   "resolved": false,
+   "fdcId": null,
+   "name": null,
+   "dataType": null,
+   "per100g": {}
+  },
+  "pickled herring": {
+   "display": "Pickled herring",
+   "resolved": false,
+   "fdcId": null,
+   "name": null,
+   "dataType": null,
+   "per100g": {}
+  },
+  "shrimp": {
+   "display": "shrimp",
+   "resolved": true,
+   "fdcId": 1899566,
+   "name": "SHRIMP",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 11.8,
+    "fat_g": 0,
+    "carbs_g": 0,
+    "kcal": 47,
+    "sugar_g": 0,
+    "fiber_g": 0,
+    "calcium_mg": 71,
+    "iron_mg": 0.42,
+    "sodium_mg": 494
+   }
+  },
+  "dill": {
+   "display": "Dill",
+   "resolved": true,
+   "fdcId": 324653,
+   "name": "Pickles, cucumber, dill or kosher dill",
+   "dataType": "Foundation",
+   "per100g": {
+    "sodium_mg": 808,
+    "calcium_mg": 54,
+    "potassium_mg": 112,
+    "fat_g": 0.43,
+    "carbs_g": 1.99,
+    "protein_g": 0.48,
+    "fiber_g": 1,
+    "iron_mg": 0.23,
+    "kcal": 12
+   }
+  },
+  "chives": {
+   "display": "Chives",
+   "resolved": true,
+   "fdcId": 2673992,
+   "name": "CHIVES",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 0,
+    "kcal": 0,
+    "sugar_g": 0,
+    "fiber_g": 0,
+    "calcium_mg": 0,
+    "iron_mg": 0,
+    "sodium_mg": 0
+   }
+  },
+  "parsley": {
+   "display": "Parsley",
+   "resolved": true,
+   "fdcId": 2670943,
+   "name": "PARSLEY",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 0,
+    "kcal": 0,
+    "sugar_g": 0,
+    "sodium_mg": 0
+   }
+  },
+  "lemon": {
+   "display": "lemon",
+   "resolved": true,
+   "fdcId": 2038425,
+   "name": "LEMON",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 0,
+    "fat_g": 30,
+    "carbs_g": 6.67,
+    "kcal": 300,
+    "sugar_g": 3.33,
+    "fiber_g": 0,
+    "calcium_mg": 0,
+    "iron_mg": 0,
+    "sodium_mg": 800
+   }
+  },
+  "black pepper": {
+   "display": "black pepper",
+   "resolved": true,
+   "fdcId": 2157235,
+   "name": "BLACK PEPPER",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 167,
+    "kcal": 0,
+    "sugar_g": 0,
+    "fiber_g": 41.7,
+    "calcium_mg": 0,
+    "iron_mg": 0,
+    "sodium_mg": 0
+   }
+  },
+  "salt": {
+   "display": "salt",
+   "resolved": true,
+   "fdcId": 2162651,
+   "name": "SALT",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 1330,
+    "kcal": 0,
+    "sodium_mg": 39300
+   }
+  },
+  "sugar": {
+   "display": "sugar",
+   "resolved": true,
+   "fdcId": 2707988,
+   "name": "Cookie, sugar or plain, sugar free",
+   "dataType": "Survey (FNDDS)",
+   "per100g": {
+    "protein_g": 10.34,
+    "fat_g": 31.03,
+    "carbs_g": 50.52,
+    "kcal": 523,
+    "sugar_g": 0,
+    "fiber_g": 3.4,
+    "calcium_mg": 0,
+    "iron_mg": 2.48,
+    "potassium_mg": 202,
+    "sodium_mg": 448
+   }
+  },
+  "yeast": {
+   "display": "yeast",
+   "resolved": true,
+   "fdcId": 2710005,
+   "name": "Yeast",
+   "dataType": "Survey (FNDDS)",
+   "per100g": {
+    "protein_g": 40.44,
+    "fat_g": 7.61,
+    "carbs_g": 41.22,
+    "kcal": 325,
+    "sugar_g": 0,
+    "fiber_g": 26.9,
+    "calcium_mg": 30,
+    "iron_mg": 2.17,
+    "potassium_mg": 955,
+    "sodium_mg": 51
+   }
+  },
+  "cardamom": {
+   "display": "Cardamom",
+   "resolved": true,
+   "fdcId": 579066,
+   "name": "CARDAMOM",
+   "dataType": "Branded",
+   "per100g": {
+    "fat_g": 0,
+    "carbs_g": 0,
+    "sodium_mg": 0,
+    "protein_g": 0,
+    "kcal": 0
+   }
+  },
+  "cinnamon": {
+   "display": "cinnamon",
+   "resolved": true,
+   "fdcId": 2670917,
+   "name": "CINNAMON",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 0,
+    "kcal": 0,
+    "sugar_g": 0,
+    "fiber_g": 0,
+    "calcium_mg": 0,
+    "iron_mg": 0,
+    "potassium_mg": 0,
+    "sodium_mg": 0
+   }
+  },
+  "almond": {
+   "display": "Almond",
+   "resolved": true,
+   "fdcId": 2707533,
+   "name": "Almond butter",
+   "dataType": "Survey (FNDDS)",
+   "per100g": {
+    "protein_g": 20.67,
+    "fat_g": 52.72,
+    "carbs_g": 21.11,
+    "kcal": 641,
+    "sugar_g": 4.4,
+    "fiber_g": 9.6,
+    "calcium_mg": 263,
+    "iron_mg": 4.08,
+    "potassium_mg": 741,
+    "sodium_mg": 232
+   }
+  },
+  "potato": {
+   "display": "potato",
+   "resolved": true,
+   "fdcId": 2709510,
+   "name": "Potato patty",
+   "dataType": "Survey (FNDDS)",
+   "per100g": {
+    "protein_g": 3.89,
+    "fat_g": 11.32,
+    "carbs_g": 13.49,
+    "kcal": 171,
+    "sugar_g": 1.48,
+    "fiber_g": 1.5,
+    "calcium_mg": 33,
+    "iron_mg": 0.75,
+    "potassium_mg": 219,
+    "sodium_mg": 219
+   }
+  },
+  "red onion": {
+   "display": "Red onion",
+   "resolved": true,
+   "fdcId": 1581588,
+   "name": "RED ONION",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 0.68,
+    "fat_g": 0,
+    "carbs_g": 6.76,
+    "kcal": 30,
+    "sugar_g": 3.38,
+    "fiber_g": 1.4,
+    "calcium_mg": 14,
+    "iron_mg": 0,
+    "sodium_mg": 0
+   }
+  },
+  "cucumber": {
+   "display": "cucumber",
+   "resolved": true,
+   "fdcId": 2709821,
+   "name": "Cucumber salad made with cucumber and vinegar",
+   "dataType": "Survey (FNDDS)",
+   "per100g": {
+    "protein_g": 0.5,
+    "fat_g": 0.13,
+    "carbs_g": 6.79,
+    "kcal": 34,
+    "sugar_g": 5.33,
+    "fiber_g": 0.5,
+    "calcium_mg": 14,
+    "iron_mg": 0.07,
+    "potassium_mg": 137,
+    "sodium_mg": 236
+   }
+  },
+  "beetroot": {
+   "display": "Beetroot",
+   "resolved": true,
+   "fdcId": 2321499,
+   "name": "BEETROOT CHIPS, BEETROOT",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 10.7,
+    "fat_g": 25,
+    "carbs_g": 57.1,
+    "kcal": 500,
+    "sugar_g": 35.7,
+    "fiber_g": 10.7,
+    "calcium_mg": 57,
+    "iron_mg": 3.57,
+    "potassium_mg": 1710,
+    "sodium_mg": 357
+   }
+  },
+  "carrot": {
+   "display": "carrot",
+   "resolved": true,
+   "fdcId": 170500,
+   "name": "Carrot, dehydrated",
+   "dataType": "SR Legacy",
+   "per100g": {
+    "sugar_g": 38.8,
+    "protein_g": 8.1,
+    "fiber_g": 23.6,
+    "iron_mg": 3.93,
+    "sodium_mg": 275,
+    "fat_g": 1.49,
+    "carbs_g": 79.6,
+    "kcal": 341,
+    "calcium_mg": 212,
+    "potassium_mg": 2540
+   }
+  },
+  "cod": {
+   "display": "Cod",
+   "resolved": true,
+   "fdcId": 2099857,
+   "name": "COD",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 12.4,
+    "fat_g": 2.94,
+    "carbs_g": 5.29,
+    "kcal": 100,
+    "sugar_g": 0,
+    "fiber_g": 0.6,
+    "calcium_mg": 35,
+    "iron_mg": 0.85,
+    "sodium_mg": 418
+   }
+  },
+  "crayfish": {
+   "display": "crayfish",
+   "resolved": false,
+   "fdcId": null,
+   "name": null,
+   "dataType": null,
+   "per100g": {}
+  },
+  "veal": {
+   "display": "veal",
+   "resolved": false,
+   "fdcId": null,
+   "name": null,
+   "dataType": null,
+   "per100g": {}
+  },
+  "pork": {
+   "display": "pork",
+   "resolved": true,
+   "fdcId": 1945366,
+   "name": "PORK",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 21.2,
+    "fat_g": 4.12,
+    "carbs_g": 1.18,
+    "kcal": 118,
+    "sugar_g": 0,
+    "fiber_g": 0,
+    "calcium_mg": 0,
+    "iron_mg": 1.27,
+    "sodium_mg": 212
+   }
+  },
+  "juniper berries": {
+   "display": "juniper berries",
+   "resolved": true,
+   "fdcId": 1851575,
+   "name": "SCRUMPTIOUS PANTRY, TOMATO CATSUP, EARTHY WITH ROSEMARY AND JUNIPER BERRIES, EARTHY WITH ROSEMARY AND JUNIPER BERRIES",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 12.5,
+    "kcal": 62,
+    "sugar_g": 6.25,
+    "fiber_g": 0,
+    "sodium_mg": 375
+   }
+  },
+  "allspice": {
+   "display": "allspice",
+   "resolved": true,
+   "fdcId": 2385627,
+   "name": "ALLSPICE",
+   "dataType": "Branded",
+   "per100g": {
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 0,
+    "kcal": 0,
+    "sodium_mg": 2000
+   }
+  }
+ }
+}
